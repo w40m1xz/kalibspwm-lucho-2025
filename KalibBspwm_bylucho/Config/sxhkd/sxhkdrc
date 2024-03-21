@@ -147,6 +147,9 @@ super + shift + p
 # Obsidian
 super + shift + o
         flameshot gui &
+# Obsidian
+super + shift + o
+        brave-browser
 ###############
 # ScreenShots #
 ###############
