@@ -37,7 +37,7 @@ Para instalar KaliBspwm, sigue estos pasos:
    - [Obsidian](https://obsidian.md/download)
    - [Visual Studio Code](https://code.visualstudio.com/download)
    - [Brave](https://brave.com/linux/)
-   - [Firefox]https://www.mozilla.org/es-CL/firefox/new/()
+   - [Firefox](https://www.mozilla.org/es-CL/firefox/new/)
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 
