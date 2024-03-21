@@ -147,7 +147,7 @@ super + shift + p
 # Obsidian
 super + shift + o
         flameshot gui &
-# Obsidian
+# Brave
 super + shift + o
         brave-browser
 ###############
