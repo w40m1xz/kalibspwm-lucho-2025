@@ -2,7 +2,7 @@
 
 
 ## Este es mi configuracion basado en uno que tome de otro lugar y lo modifque ami gusto 
-(pictures/2023-12-29_04-33.png)
+![Texto alternativo](pictures/2023-12-29_04-33.png)
 * Incluye color diferente y bordes en el area
 * le añade el icono de bateria  configurado listo que sirve para su estado  (en caso de que este de forma nativa en un notebook)
 * otros recurso 
@@ -13,7 +13,7 @@ Para instalar KaliBspwm, sigue estos pasos:
 1. Clona el repositorio(gracias ZLCube):
 
     ```bash
-    git clone https://github.com/ZLCube/KaliBspwm.git 
+    git clone https://github.com/w40m1xz/kalibspwm_by_lucho
     cd KaliBspwm
     chmod +x install.sh
    ./install.sh
@@ -31,6 +31,13 @@ Para instalar KaliBspwm, sigue estos pasos:
   - recursos otros
      ```bash
     sudo su apt install flameshot -y
+
+  #3. Descarga las siguientes herramientas:
+
+   - [Obsidian](https://obsidian.md/download)
+   - [Visual Studio Code](https://code.visualstudio.com/download)
+   - [Brave](https://brave.com/linux/)
+   - [Firefox](https://www.mozilla.org/es-CL/firefox/new/)
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 
