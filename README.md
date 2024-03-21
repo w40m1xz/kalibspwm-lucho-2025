@@ -13,7 +13,7 @@ Para instalar KaliBspwm, sigue estos pasos:
 1. Clona el repositorio(gracias ZLCube):
 
     ```bash
-    git clone https://github.com/ZLCube/KaliBspwm.git 
+    git clone https://github.com/w40m1xz/kalibspwm_by_lucho
     cd KaliBspwm
     chmod +x install.sh
    ./install.sh
@@ -31,6 +31,8 @@ Para instalar KaliBspwm, sigue estos pasos:
   - recursos otros
      ```bash
     sudo su apt install flameshot -y
+    https://obsidian.md/download
+    https://code.visualstudio.com/download
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 
