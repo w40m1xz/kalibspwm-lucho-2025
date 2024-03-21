@@ -31,8 +31,12 @@ Para instalar KaliBspwm, sigue estos pasos:
   - recursos otros
      ```bash
     sudo su apt install flameshot -y
-    https://obsidian.md/download
-    https://code.visualstudio.com/download
+    # Descargar Obsidian
+   # Puedes descargar Obsidian desde: https://obsidian.md/download
+
+   # Descargar Visual Studio Code
+  # Puedes descargar Visual Studio Code desde: https://code.visualstudio.com/download
+
 # para instalar nvim 
 ![Texto alternativo](pictures/2023-12-29_05-25.png)
 
