@@ -2,7 +2,7 @@
 
 
 ## Este es mi configuracion basado en uno que tome de otro lugar y lo modifque ami gusto 
-![Texto alternativo](pictures/2023-12-29_04-33.png)
+(pictures/2023-12-29_04-33.png)
 * Incluye color diferente y bordes en el area
 * le añade el icono de bateria  configurado listo que sirve para su estado  (en caso de que este de forma nativa en un notebook)
 * otros recurso 
