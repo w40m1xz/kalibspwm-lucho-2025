@@ -31,7 +31,8 @@ Para instalar KaliBspwm, sigue estos pasos:
   - recursos otros
      ```bash
     sudo su apt install flameshot -y
-    2. Descarga las siguientes herramientas:
+
+  #2. Descarga las siguientes herramientas:
 
    - [Obsidian](https://obsidian.md/download)
    - [Visual Studio Code](https://code.visualstudio.com/download)
