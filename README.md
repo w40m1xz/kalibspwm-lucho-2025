@@ -9,7 +9,11 @@
 
 
 Para instalar KaliBspwm, sigue estos pasos:
+Nos preparamos antes con 
 
+    ```bash
+     apt update && apt upgrade -y 
+    ```
 1. Clona el repositorio(gracias ZLCube):
 
     ```bash
