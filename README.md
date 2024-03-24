@@ -12,7 +12,7 @@ Para instalar KaliBspwm, sigue estos pasos:
 Nos preparamos antes con 
 
      apt update && apt upgrade -y 
-1. Clona el repositorio(gracias ZLCube):
+ Clona el repositorio(gracias ZLCube):
 
     ```bash
     git clone https://github.com/w40m1xz/kalibspwm_by_lucho
@@ -22,13 +22,6 @@ Nos preparamos antes con
  
      
     ```
-
-2. una vez configurado movemos los archivos necesarios:
-
-    ```bash
-    cd mi_setup/
-    sudo su mv bin bspwm polybar sxhkd ~/.config
-
 
   - recursos otros
      ```bash
