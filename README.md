@@ -18,10 +18,8 @@ Nos preparamos antes con
     git clone https://github.com/w40m1xz/kalibspwm_by_lucho
     cd KaliBspwm
     chmod +x install.sh
-   ./install.sh
+    ./install.sh
  
-     
-    ```
 
   - recursos otros
      ```bash
