@@ -14,7 +14,6 @@ Nos preparamos antes con
      apt update && apt upgrade -y 
  Clona el repositorio(gracias ZLCube):
 
-    ```bash
     git clone https://github.com/w40m1xz/kalibspwm_by_lucho
     cd KaliBspwm
     chmod +x install.sh
