@@ -4,11 +4,11 @@
 
 # terminal emulator
 super + Return
-	/opt/kitty/bin/kitty
+	kitty &
 
 # i3lock 
 shift + l
-	/usr/bin/i3lock-everblush
+	i3lock -i /home/suilxz/Imágenes/aesthetic-wallpapers/images/wallhaven-9mjw78.png
 
 
 # program launcher
@@ -135,7 +135,7 @@ super + alt + {Left,Down,Up,Right}
 
 # Firefox
 super + shift + f
-	/opt/firefox/firefox-bin
+	firefox &
 
 # BurpSuite
 super + shift + b
@@ -146,7 +146,7 @@ super + shift + p
         flameshot gui &
 # Obsidian
 super + shift + o
-        flameshot gui &
+        obsidian &
 # Brave
 super + shift + o
         brave-browser

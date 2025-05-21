@@ -42,7 +42,7 @@ bspc config focus_follows_pointer true
 
 
 # WALLPAPER
-feh --bg-fill /home/kali/Wallpaper/trinidadgris.png 
+feh --bg-fill /home/suilxz/Imágenes/aesthetic-wallpapers/images/blue_demon.png
 
 # POLYBAR
 ~/.config/polybar/launch.sh
